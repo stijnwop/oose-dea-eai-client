@@ -20,9 +20,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-@angular/core@4.3.6 MIT
+@angular/core@4.4.4 MIT
 
-@angular/cdk@2.0.0-beta.10 MIT
+@angular/material@2.0.0-beta.11 MIT
 The MIT License
 
 Copyright (c) 2017 Google, Inc.
@@ -46,11 +46,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-@angular/http@4.3.6 MIT
-
-@angular/animations@4.3.6 MIT
-
-@angular/material@2.0.0-beta.10 MIT
+@angular/cdk@2.0.0-beta.11 MIT
 The MIT License
 
 Copyright (c) 2017 Google, Inc.
@@ -74,9 +70,13 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-@angular/common@4.3.6 MIT
+@angular/http@4.4.4 MIT
 
-@angular/forms@4.3.6 MIT
+@angular/animations@4.4.4 MIT
+
+@angular/common@4.4.4 MIT
+
+@angular/forms@4.4.4 MIT
 
 zone.js@0.8.12 MIT
 The MIT License
@@ -102,7 +102,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-@angular/platform-browser@4.3.6 MIT
+@angular/platform-browser@4.4.4 MIT
 
 webpack@3.4.1 MIT
 Copyright JS Foundation and other contributors
